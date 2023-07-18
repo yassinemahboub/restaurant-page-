@@ -1,6 +1,6 @@
-import '/source-files/style.css'
+import '/style.css'
 
-import { setupTabs } from '/source-files/tabSetup.js'; 
+import { setupTabs } from '/tabSetup.js'; 
 
 
 const elementLoad = () => {
